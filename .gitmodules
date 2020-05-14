@@ -1,0 +1,45 @@
+[submodule "pack/dev-dad/opt/onedark.vim"]
+	path = pack/dev-dad/opt/onedark.vim
+	url = https://github.com/joshdick/onedark.vim.git
+[submodule "pack/dev-dad/start/nerdtree"]
+	path = pack/dev-dad/start/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "pack/dev-dad/start/vim-airline"]
+	path = pack/dev-dad/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline.git
+[submodule "pack/dev-dad/start/vim-airline-themes"]
+	path = pack/dev-dad/start/vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes.git
+[submodule "pack/dev-dad/start/julia-vim"]
+	path = pack/dev-dad/start/julia-vim
+	url = https://github.com/JuliaEditorSupport/julia-vim.git
+[submodule "pack/dev-dad/start/auto-pairs"]
+	path = pack/dev-dad/start/auto-pairs
+	url = https://github.com/jiangmiao/auto-pairs.git
+[submodule "pack/dev-dad/start/vim"]
+	path = pack/dev-dad/start/vim
+	url = https://github.com/dracula/vim.git
+[submodule "pack/dev-dad/start/dracula"]
+	path = pack/dev-dad/start/dracula
+	url = https://github.com/dracula/vim.git
+[submodule "pack/dev-dad/start/emmet-vim"]
+	path = pack/dev-dad/start/emmet-vim
+	url = https://github.com/mattn/emmet-vim.git
+[submodule "pack/dev-dad/start/vim-flake8"]
+	path = pack/dev-dad/start/vim-flake8
+	url = https://github.com/nvie/vim-flake8.git
+[submodule "pack/dev-dad/start/syntastic"]
+	path = pack/dev-dad/start/syntastic
+	url = https://github.com/vim-syntastic/syntastic.git
+[submodule "pack/dev-dad/start/ale"]
+	path = pack/dev-dad/start/ale
+	url = https://github.com/w0rp/ale.git
+[submodule "pack/dev-dad/start/vim-gutentags"]
+	path = pack/dev-dad/start/vim-gutentags
+	url = https://github.com/ludovicchabant/vim-gutentags.git
+[submodule "pack/dev-dad/start/tagbar"]
+	path = pack/dev-dad/start/tagbar
+	url = https://github.com/majutsushi/tagbar.git
+[submodule "pack/dev-dad/start/vimade"]
+	path = pack/dev-dad/start/vimade
+	url = https://github.com/TaDaa/vimade.git
